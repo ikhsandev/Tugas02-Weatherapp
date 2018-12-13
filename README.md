@@ -12,4 +12,5 @@ QR CODE APP:
 <br><br><img src="barcode.JPG">
 <br><br>
 Screenshot App<br>
-<img src="app.gif">
+<img src="1.jpg">
+<img src="2.jpg">
