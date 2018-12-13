@@ -8,5 +8,8 @@ Nim  : 2015150086
 <br>
 Kls  : 03
 <br><br>
-<center>QR CODE APP:
-<br><br><img src="barcode.JPG"></center>
+QR CODE APP:
+<br><br><img src="barcode.JPG">
+<br><br>
+Screenshot App<br>
+<img src="app.gif"
