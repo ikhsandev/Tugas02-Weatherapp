@@ -7,6 +7,6 @@ Nama : Ikhsan Andriyawan
 Nim  : 2015150086
 <br>
 Kls  : 03
-<br><br><br>
+<br><br>
 QR CODE APP:
 <br><br><img src="barcode.JPG">
