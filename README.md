@@ -1,10 +1,12 @@
 #TUGAS02
 Tugas 02 Weather App 
 Pemrograman Moblie
-
+<br>
 Nama : Ikhsan Andriyawan
+<br>
 Nim  : 2015150086
+<br>
 Kls  : 03
-
+<br>
 QR CODE APP:
-<img src="barcode.JPG">
+<br><img src="barcode.JPG">
